@@ -1,4 +1,4 @@
-# scrimbs-write-a-news-article
+# scrimba-write-a-news-article
 
 Obtain the same design as in the picture below
 
